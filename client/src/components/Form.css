@@ -1,0 +1,32 @@
+form{
+    background-color: white;
+    display: inline-block;
+    padding: 25px 50px;
+    text-align:left;
+    min-width: 500px;
+    border:1px solid black;
+
+}
+form input{
+    margin-bottom: 15px;
+    line-height: 30px;
+}
+label{
+    font-size: 25px;
+    font-weight: bold;
+}
+button{
+    background-color: darkgreen;
+    font-size: 24px;
+    padding: 10px 20px;
+    border:0;
+    transition:0.5s all ease-in-out;
+    cursor:pointer;
+}
+button:hover{
+    background-color: darkgreen;
+}
+.resultMessage{
+    background-color: darkred;
+    padding: 10px 20px;
+}

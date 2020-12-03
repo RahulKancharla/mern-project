@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.cointainer{
+  margin-top: 80px;
+  background-color: floralwhite;
+  width: 1024px;
+  margin: 80px auto 0;
+  padding: 0;
+  min-height: 450px;
+}
+body{
+  background-color: olive;
+}
+.title{
+  background-color: peru;
+  padding: 20px 40px;
+
+}
